@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hamzaaaabdikarim33/Unit-18-Pwa-Homework/issues"
   },
-  "homepage": "https://github.com/hamzaaaabdikarim33/Unit-18-Pwa-Homework#readme"
+  "homepage": "https://github.com/hamzaaaabdikarim33/Unit-18-Pwa-Homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
